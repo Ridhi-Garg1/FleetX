@@ -1,6 +1,6 @@
-# 🚀 XpressFleet – Instant Product Delivery Backend (Node.js)
+# 🚀 FleetX – Instant Product Delivery Backend (Node.js)
 
-**XpressFleet** is a backend solution for an instant product delivery service, similar to Blinkit, Zepto, or Swiggy. This Node.js-powered backend manages user authentication, real-time order tracking with Socket.io, and integrates email notifications using SMTP.
+**FleetX** is a backend solution for an instant product delivery service, similar to Blinkit, Zepto, or Swiggy. This Node.js-powered backend manages user authentication, real-time order tracking with Socket.io, and integrates email notifications using SMTP.
 
 > 🔧 Built with scalability, security, and real-time capabilities in mind.
 
@@ -90,6 +90,7 @@ Explore the live API collection here:
 🔗 [Postman Workspace](https://www.postman.com/solar-escape-571108/workspace/54fcd003-1f88-42da-8172-cbac9cd575cf/collection/15790133-eb941792-d2d5-41dd-8b20-b089d6649157)
 
 ---
+🧭 To ensure smooth testing of the API collection via your browser, kindly install the Postman Agent for Windows if it is not already installed on your system.
 
 ## 🔥 Key Features
 
@@ -103,9 +104,9 @@ Explore the live API collection here:
 
 ## 👨‍💻 Author & Contact
 
-**👤 Author:** Sidhi Garg  
-📧 Email: sidhigargofficial20@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/sidhi-garg-999932359](https://www.linkedin.com/in/sidhi-garg-999932359/)
+**👤 Author:** Ridhi Garg  
+📧 Email: ridhigargofficial20@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/ridhi-garg-69292a359/
 
 ---
 
