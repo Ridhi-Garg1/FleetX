@@ -21,10 +21,11 @@ export const createNewUser = async (req, res, next) => {
   try {
 
     const newUser = await createNewUserRepo(req.body);
-    await sendToken(newUser, res, 200);
+   // await sendToken(newUser, res, 200);
+     return res.json({user: newUser});
 
     // Implement sendWelcomeEmail function to send welcome message
-    await sendWelcomeEmail(newUser);
+   // await sendWelcomeEmail(newUser);
   } catch (err) {
     //  handle error for duplicate email
     if (err.code === 11000 && err.keyPattern && err.keyPattern.email) {
