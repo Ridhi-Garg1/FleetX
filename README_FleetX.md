@@ -94,6 +94,7 @@ Explore the live API collection here:
 
 ---
 🧭 To ensure smooth testing of the API collection via your browser, kindly install the Postman Agent for Windows if it is not already installed on your system.
+
 ✅ This is just for testing purposes.  
 ✏️ Modify the **JSON body** in the requests as needed, based on the code or specific requirements.  
 🛡️ While signing up, make sure to include `"role": "admin"` in the request body.  
