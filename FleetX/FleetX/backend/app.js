@@ -30,4 +30,3 @@ app.use("/api/storefleet/order", orderRoutes);
 app.use(errorHandlerMiddleware);
 
 export default app;
-
