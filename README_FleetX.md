@@ -1,4 +1,4 @@
-# 🚀 FleetX – Instant Product Delivery Backend (Node.js)
+# 🚀 FleetX – Instant Product Delivery || Backend Development (Node.js)
 
 **FleetX** is a backend solution for an instant product delivery service, similar to Blinkit, Zepto, or Swiggy. This Node.js-powered backend manages user authentication, real-time order tracking with Socket.io, and integrates email notifications using SMTP.
 
@@ -8,7 +8,10 @@
 
 ## 📌 Objective
 
-You recently joined the startup **'XpressFleet'**, an ambitious instant delivery platform aiming to deliver not only food and groceries, but also electronics, mobile phones, and other essentials — instantly. Your role involved implementing new backend features, integrating real-time functionalities, and optimizing overall performance.
+🚀 Joined FleetX — an innovative instant delivery startup revolutionizing the way essentials reach users. From food and groceries to electronics and mobile phones, FleetX aims to deliver everything instantly.
+🔧 Contributed by implementing new backend features, integrating real-time functionalities, and optimizing system performance to support seamless and scalable operations.
+
+
 
 ---
 
